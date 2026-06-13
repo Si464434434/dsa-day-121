@@ -1,6 +1,6 @@
 # dsa-day-121   class Solution {
 public:
-    int maxDistance(vector<int>& colors) {
+    int maxDistance(vector<int>& colv cccors) {
         int n = colors.size();
         int ans = 0;
 
